@@ -157,7 +157,7 @@ input:focus{
    background-color: #f8f4f4;
    flex-direction: column;
    padding-top: 14%;
-   margin-bottom: 0%;
+   margin-bottom: 5%;
 }
 
 .mid-left {
@@ -173,7 +173,6 @@ input:focus{
    height: 130%;
    flex-direction: column;
    padding-top: 10%;
-   border: 1px solid red;
    margin-bottom: 0px;
 }
 .mid-tag-line {
@@ -270,10 +269,10 @@ input:focus{
 .bottom-div {
    display: flex;
    width: 100%;
-   /* height: 50vh; */
    background-color: var(--theme-two);
    flex-direction: column;
    align-items: center;
+   margin-top: 0%;
 }
 
 .bottom-playlist {
